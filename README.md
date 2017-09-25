@@ -1,9 +1,10 @@
-# samsung-smart-home-code
-Code Repository for Samsung Smart Home Product Studio
+# samsung-smart-home-repository
 
 * Link to team GitHub [https://github.com/ct-product-challenge-2017/samsung-smart-home](https://github.com/ct-product-challenge-2017/samsung-smart-home)
 * Link to team Goals [https://github.com/hathaitornr/samsung-smart-home-code/projects/2](https://github.com/hathaitornr/samsung-smart-home-code/projects/2)
 * 9/24 weekly progress board [https://github.com/hathaitornr/samsung-smart-home-code/projects/1](https://github.com/hathaitornr/samsung-smart-home-code/projects/1)
+
+## Development Process 
 
 ![](Team_Schedule.png)
 
