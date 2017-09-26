@@ -2,6 +2,7 @@
 
 * Link to team GitHub [https://github.com/ct-product-challenge-2017/samsung-smart-home](https://github.com/ct-product-challenge-2017/samsung-smart-home)
 * Link to team Goals [https://github.com/hathaitornr/samsung-smart-home-code/projects/2](https://github.com/hathaitornr/samsung-smart-home-code/projects/2)
+* Weekly Progress Log [https://github.com/hathaitornr/samsung-smart-home-code/blob/master/Weekly%20Progress%20Log.md](https://github.com/hathaitornr/samsung-smart-home-code/blob/master/Weekly%20Progress%20Log.md)
 * Weekly progress board [https://github.com/hathaitornr/samsung-smart-home-code/projects/1](https://github.com/hathaitornr/samsung-smart-home-code/projects/1)
 * Team architecture diagram [https://docs.google.com/presentation/d/15pPyixjMf6tvLXIwaJJgP366biOAZ7veawY5aYTUYrs/edit?usp=sharing](https://docs.google.com/presentation/d/15pPyixjMf6tvLXIwaJJgP366biOAZ7veawY5aYTUYrs/edit?usp=sharing)
 
