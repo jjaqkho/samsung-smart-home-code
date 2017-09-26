@@ -18,7 +18,7 @@
     - Schedule a meeting with Mark Steven Lachs
   - Create high level schedule for the activities and developments required up to the next Sprint
 
-### Key learnings and actions from your weekly retro
+### Key learnings and actions from weekly retro
   - The demo we presented in Sprint was too minimal to demonstrate our ideas, needs more development to  elaborate our ideas
   - The presentation narrative lacked the how and why we narrowed down to nursing home 
 
