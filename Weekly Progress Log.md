@@ -2,6 +2,11 @@
 
 ## Week 4 
 ### Week Behind:
+  - Linkgs to new artifacts
+    * Link to commit graph [https://github.com/hathaitornr/samsung-smart-home-code/graphs/commit-activity](https://github.com/hathaitornr/samsung-smart-home-code/graphs/commit-activity)
+    * Link to team Goals [https://github.com/hathaitornr/samsung-smart-home-code/projects/2](https://github.com/hathaitornr/samsung-smart-home-code/projects/2)
+    * Weekly progress board [https://github.com/hathaitornr/samsung-smart-home-code/projects/1](https://github.com/hathaitornr/samsung-smart-home-code/projects/1)
+    * Team architecture diagram [https://docs.google.com/presentation/d/15pPyixjMf6tvLXIwaJJgP366biOAZ7veawY5aYTUYrs/edit?usp=sharing](https://docs.google.com/presentation/d/15pPyixjMf6tvLXIwaJJgP366biOAZ7veawY5aYTUYrs/edit?usp=sharing)
   - Clarified deliverable expectations with J McLoughlin and Leland Rechis
   - After Sprint, we revisited previous work and tried to clarify the “why” for our proposed solution. We diverged to generate new ideas individually and converged to prepare a pitch deck for company advisor. 
   - Call conference with Bill, going through all of our ideas and filtered down to 4 ideas (#3, #4, #6, #7) 
