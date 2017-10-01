@@ -2,9 +2,21 @@
 
 ### How Might We: How might we increase consumers’ understanding of how to use and take advantage of a Smart Home? 
 
+## Week 5
+#### Week Behind
+  - Visited Hebrew Home at Riverdale and Talked to the Chief Information Officer David Finkelstein. From the visit, we learned that nursing homes have been thinking about smart home technologies but they haven't find an integrated solution.
+  
+#### Week Ahead
+  - Talk to Dr. Lachs as Weil Cornell to learn more about the aging group.
+  - Visit senior homes and talk to the eldery to gain insights on what does the aging group need.
+
+#### Key learnings and actions from weekly retro
+
+#### Risks
+
 
 ## Week 4 
-#### Week Behind:
+#### Week Behind
   - Linkgs to new artifacts
     * Link to commit graph [https://github.com/hathaitornr/samsung-smart-home-code/graphs/commit-activity](https://github.com/hathaitornr/samsung-smart-home-code/graphs/commit-activity)
     * Link to team Goals [https://github.com/hathaitornr/samsung-smart-home-code/projects/2](https://github.com/hathaitornr/samsung-smart-home-code/projects/2)
@@ -37,27 +49,27 @@
 
 
 ## Week 3
-#### Week Behind:
+#### Week Behind
   - Met with Greg Pass (our studio advisor) and got critical insights on how to filter through our ideas for our product solution.
   - Interviewed with a number of people to learn about why would they or would they not purchase smart home devices 
   - Went back to the drawing board and developed 5 different ideas that we explored at the Sprint.
   - Debated on the ideas to yield which would be a best fit and deliberated with Deborah Estrin, in order to get feedback and a new set of eyes on our solutions. 
   - Developed a new narrative out of the idea that we decided on pursuing, two user stories and an initial pitch presentation which we presented on Sprint conclusion.
   - Received the CSP-EC agreement from Bill.
-
-#### Week Ahead:
+  
+#### Week Ahead
   - Work on clearing our idea further and gather additional supporting arguments.
   - Improve our sprint presentation based on feedback received.
   - Schedule a phone call with Bill, to discuss our new solution and dig into our next steps.
   - Add more information and details to the product demo to better explain our idea.
   - Get our hands on Samsung smart home products.
 
-#### Risks:
+#### Risks
   - Might not be able to get the smart home products in time
   
   
 ## Week 2
-#### Week Behind:
+#### Week Behind
   - Came up with Product Sketches, had a chance to do a rundown of the sketch process from Sprint.
   - Individual Product Sketches, based on a selected User Story.
   - Team Product Sketch, based on popular vote on an elaborate idea from a team member (an outcome of the sketch rundown).
@@ -65,7 +77,7 @@
   - Sent Bill our CSP-EC agreement (signature pending) and presentation slide.
   - Invited Bill to our campus.
   
-#### Week Ahead:
+#### Week Ahead
   - Meet Studio Advisor (Greg Pass) on Thursday (Sep 14, 2017  9:45pm).
   - Dig deeper into Smart industry based on what we got from the meeting.
   - Narrow down potential solutions for Sprint #1 (Sep 14, 2017).
@@ -76,7 +88,7 @@
   
   
 ## Week 1
-#### Week Behind:
+#### Week Behind
   - Reached out to company advisor Bill Lee to schedule a meeting
   - Set up Telegram as major online communication tool.
   - Set up a conference call with Bill.
@@ -84,13 +96,13 @@
   - Worked on system diagram invidually and came up a team system diagram.
   - Preliminary brainstorm on potential wedges and solutions.
   
-#### Week Ahead:
+#### Week Ahead
   - Work on team contract.
   - Schedule a meeting with Bill.
   - Brianstorm on ideas and make product sketches.
   - Meet Studio Advisor for advice on HMW.
   - Perhaps interact with Smarthome Products.
   
-#### Risks:
+#### Risks
   - Haven't had a chance to experience or interact with Samsung smart products.
   - Not familiar with consumer needs within the smart home field.
