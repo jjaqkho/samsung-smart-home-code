@@ -8,14 +8,18 @@
   - Visited Hebrew Home at Riverdale and Talked to the Chief Information Officer David Finkelstein. From the visit, we learned that nursing homes have been thinking about smart home technologies but they haven't find an integrated solution.
   
 #### Week Ahead
-  - Talk to Dr. Lachs as Weil Cornell to learn more about the aging group.
+  - Talk to Dr. Lachs at Weil Cornell to learn more about the aging group.
+  - Put together a list of nursing homes, send cold email to reach out for visits.
   - Visit senior homes and talk to the eldery to gain insights on what does the aging group need.
-  - start wireframing our solutions UI
+  - start wireframing our solutions UI.
   - acquire the smart devices that would be used on our prototype.
 
 #### Key learnings and actions from weekly retro
+  - We dicussesd the risk that nursing homes might be diffcult to work with. However, from our converstation with Hebrew, we learned that nursing homes need a third-party services to collect and analyze data. This validates the market opportunity for us. 
+
 
 #### Risks
+  - Our customers are nursing homes and end users are the elderly. Each group of stakeholders might have differente interets and needs. One potential risks will be how to balance different needs in product design process. 
 
 
 ## Week 4 
@@ -48,7 +52,7 @@
 #### Risks
   - The development process schedule might not work out as described due to volatile schedules.
   - Our target customer (nursing homes) might be hard to work with; need to gain trust and access to nursing homes.
-  - Running short in time
+  - Running short in time.
 
 
 ## Week 3
@@ -68,7 +72,7 @@
   - Get our hands on Samsung smart home products.
 
 #### Risks
-  - Might not be able to get the smart home products in time
+  - Might not be able to get the smart home products in time.
   
   
 ## Week 2
@@ -86,7 +90,7 @@
   - Narrow down potential solutions for Sprint #1 (Sep 14, 2017).
   - Try to meet Bill in person.
 
-#### Risks:
+#### Risks
   - Haven’t had a chance to experience or interact with Samsung smart products.
   
   
