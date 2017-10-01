@@ -4,11 +4,14 @@
 
 ## Week 5
 #### Week Behind
+  - Designed a questionare that will be used as a blueprint on our customer interviews.
   - Visited Hebrew Home at Riverdale and Talked to the Chief Information Officer David Finkelstein. From the visit, we learned that nursing homes have been thinking about smart home technologies but they haven't find an integrated solution.
   
 #### Week Ahead
   - Talk to Dr. Lachs as Weil Cornell to learn more about the aging group.
   - Visit senior homes and talk to the eldery to gain insights on what does the aging group need.
+  - start wireframing our solutions UI
+  - acquire the smart devices that would be used on our prototype.
 
 #### Key learnings and actions from weekly retro
 
