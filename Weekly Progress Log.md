@@ -2,7 +2,7 @@
 
 ### How Might We: How might we increase consumers’ understanding of how to use and take advantage of a Smart Home? 
 
-## Week 5
+## Week 5 (10/01/2017)
 #### Week Behind
   - Designed a questionare that will be used as a blueprint on our customer interviews.
   - Visited Hebrew Home at Riverdale and Talked to the Chief Information Officer David Finkelstein. From the visit, we learned that nursing homes have been thinking about smart home technologies but they haven't find an integrated solution.
@@ -22,7 +22,7 @@
   - Our customers are nursing homes and end users are the elderly. Each group of stakeholders might have differente interets and needs. One potential risks will be how to balance different needs in product design process. 
 
 
-## Week 4 
+## Week 4 (09/24/2017)
 #### Week Behind
   - Linkgs to new artifacts
     * Link to commit graph [https://github.com/hathaitornr/samsung-smart-home-code/graphs/commit-activity](https://github.com/hathaitornr/samsung-smart-home-code/graphs/commit-activity)
@@ -55,7 +55,7 @@
   - Running short in time.
 
 
-## Week 3
+## Week 3 (09/17/2017)
 #### Week Behind
   - Met with Greg Pass (our studio advisor) and got critical insights on how to filter through our ideas for our product solution.
   - Interviewed with a number of people to learn about why would they or would they not purchase smart home devices 
@@ -75,7 +75,7 @@
   - Might not be able to get the smart home products in time.
   
   
-## Week 2
+## Week 2 (09/10/2017)
 #### Week Behind
   - Came up with Product Sketches, had a chance to do a rundown of the sketch process from Sprint.
   - Individual Product Sketches, based on a selected User Story.
@@ -94,7 +94,7 @@
   - Haven’t had a chance to experience or interact with Samsung smart products.
   
   
-## Week 1
+## Week 1 (09/03/2017)
 #### Week Behind
   - Reached out to company advisor Bill Lee to schedule a meeting
   - Set up Telegram as major online communication tool.
