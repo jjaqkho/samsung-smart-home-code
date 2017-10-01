@@ -1,6 +1,6 @@
 # Weekly Progress Log
 
-### How Might We: How might we increase consumers’ understanding of how to use and take advantage of a Smart Home? 
+### PC: How might we increase consumers’ understanding of how to use and take advantage of a Smart Home? 
 
 ## Week 5 (10/01/2017)
 #### Week Behind
