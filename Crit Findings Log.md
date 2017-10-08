@@ -2,7 +2,7 @@
 
 ### Crit dates:
 1. October 3
-2. Octobe 31
+2. October 31
 3. November 14
 
 ### Summarized feedback from crits
@@ -14,5 +14,7 @@
 • Since we have one nursing home that:
 1) is interested in what we're building and;
 2) expressed their need in it, then focus on them. Get them to contribute if they can throughout development
+
+### Summarized feedback from Greg Pass
 
 
