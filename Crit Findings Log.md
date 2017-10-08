@@ -5,7 +5,7 @@
 2. October 31
 3. November 14
 
-### Summarized feedback from crits
+### Summarized feedback from Crit Group
 
 • The transition from Smart Home into nursing homes still isn't clear presentation-wise
 
