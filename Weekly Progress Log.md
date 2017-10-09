@@ -2,6 +2,26 @@
 
 ### PC: How might we increase consumers’ understanding of how to use and take advantage of a Smart Home? 
 
+## Week 6 (10/08/2017)
+#### Week Behind
+  - Had our first crit session, we got a positive responce on our approach and  product narative.
+  - JG met with Bill (our business advisor) discussed our progress and retrieved a smart home kit.
+  - Presented our user findings in class and to our product studio advisor.  The feedback on our narrative was generally positive and we were told to talk to more customers to confirm our initial findings. 
+  
+#### Week Ahead
+  - Talk to Dr. Lachs at Weil Cornell on Octomber 10th to learn more about the aging group.
+  - Work on our product prototype
+  - Have our second Sprint and Presentation.
+  - Meet with Deborrah and Kiyan for updates on our progress and obtain feedback prior to the Sprint presentation.
+  
+#### Key learnings and actions from weekly retro
+  - We dicussesd the risk that nursing homes might be diffcult to work with. However, from our converstation with Hebrew, we learned that nursing homes need a third-party services to collect and analyze data. This validates the market opportunity for us. 
+
+
+#### Risks
+  - Our customers are nursing homes and end users are the elderly. Each group of stakeholders might have differente interets and needs. One potential risks will be how to balance different needs in product design process. 
+
+
 ## Week 5 (10/01/2017)
 #### Week Behind
   - Designed a questionare that will be used as a blueprint on our customer interviews.
@@ -14,12 +34,10 @@
   - start wireframing our solutions UI.
   - acquire the smart devices that would be used on our prototype.
 
-#### Key learnings and actions from weekly retro
-  - We dicussesd the risk that nursing homes might be diffcult to work with. However, from our converstation with Hebrew, we learned that nursing homes need a third-party services to collect and analyze data. This validates the market opportunity for us. 
-
 
 #### Risks
-  - Our customers are nursing homes and end users are the elderly. Each group of stakeholders might have differente interets and needs. One potential risks will be how to balance different needs in product design process. 
+  - Prototype might not reach the stage we want it to be.
+  - Meeting with Deborah and Kiyan is during Sprint so maybe not the whole team can participate.
 
 
 ## Week 4 (09/24/2017)
