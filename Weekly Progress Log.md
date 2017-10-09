@@ -9,7 +9,7 @@
   - Presented our user findings in class and to our product studio advisor.  The feedback on our narrative was generally positive and we were told to talk to more customers to confirm our initial findings. 
   
 #### Week Ahead
-  - Talk to Dr. Lachs at Weil Cornell on Octomber 10th to learn more about the aging group.
+  - Talk to Dr. Lachs at Weil Cornell on October 10th to learn more about the aging group.
   - Work on our product prototype
   - Have our second Sprint and Presentation.
   - Meet with Deborrah and Kiyan for updates on our progress and obtain feedback prior to the Sprint presentation.
