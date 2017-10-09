@@ -17,4 +17,10 @@
 
 ### Summarized feedback from Greg Pass
 
-
+• Considering the broadness of “Smart Homes”, it is necessary to pick a particular subset of products and possible users.
+• The choice of product (sensor kit to monitor behavior + platform to combine data) and user segment (nursing homes) seems to be right, addressing a mapped need.
+• Risk: only one possible client was addressed. More research is required
+• Next steps:
+  1)	Reach for more nursing homes to confirm demand
+  2)	Reach for doctors to confirm technical/clinical relevance of information
+  3)	Reach for possible final clients to evaluate possible aversion to data collection
