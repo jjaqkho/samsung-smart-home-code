@@ -9,17 +9,15 @@
   - Presented our user findings in class and to our product studio advisor.  The feedback on our narrative was generally positive and we were told to talk to more customers to confirm our initial findings. 
   
 #### Week Ahead
-  - Talk to Dr. Lachs at Weil Cornell on October 10th to learn more about the aging group.
-  - Work on our product prototype.
-  - Have our second Sprint and Presentation.
-  - Meet with Deborrah and Kiyan for updates on our progress and obtain feedback prior to the Sprint presentation.
-  
-#### Key learnings and actions from weekly retro
-  - We dicussesd the risk that nursing homes might be diffcult to work with. However, from our converstation with Hebrew, we learned that nursing homes need a third-party services to collect and analyze data. This validates the market opportunity for us. 
-
+  - Talk to Dr. Lachs at Weil Cornell to learn more about the aging group.
+  - Put together a list of nursing homes, send cold email to reach out for visits.
+  - Visit senior homes and talk to the eldery to gain insights on what does the aging group need.
+  - start wireframing our solutions UI.
+  - acquire the smart devices that would be used on our prototype.
 
 #### Risks
-  - Our customers are nursing homes and end users are the elderly. Each group of stakeholders might have differente interets and needs. One potential risks will be how to balance different needs in product design process. 
+  - Prototype might not reach the stage we want it to be.
+  - Meeting with Deborah and Kiyan is during Sprint so maybe not the whole team can participate.
 
 
 ## Week 5 (10/01/2017)
@@ -28,18 +26,18 @@
   - Visited Hebrew Home at Riverdale and Talked to the Chief Information Officer David Finkelstein. From the visit, we learned that nursing homes have been thinking about smart home technologies but they haven't find an integrated solution.
   
 #### Week Ahead
-  - Talk to Dr. Lachs at Weil Cornell to learn more about the aging group.
-  - Put together a list of nursing homes, send cold email to reach out for visits.
-  - Visit senior homes and talk to the eldery to gain insights on what does the aging group need.
-  - start wireframing our solutions UI.
-  - acquire the smart devices that would be used on our prototype.
-
+ - Talk to Dr. Lachs at Weil Cornell on October 10th to learn more about the aging group.
+  - Work on our product prototype.
+  - Have our second Sprint and Presentation.
+  - Meet with Deborrah and Kiyan for updates on our progress and obtain feedback prior to the Sprint presentation.
+  
+#### Key learnings and actions from weekly retro
+  - We dicussesd the risk that nursing homes might be diffcult to work with. However, from our converstation with Hebrew, we learned that nursing homes need a third-party services to collect and analyze data. This validates the market opportunity for us. 
 
 #### Risks
-  - Prototype might not reach the stage we want it to be.
-  - Meeting with Deborah and Kiyan is during Sprint so maybe not the whole team can participate.
-
-
+  - Our customers are nursing homes and end users are the elderly. Each group of stakeholders might have differente interets and needs. One potential risks will be how to balance different needs in product design process.
+  
+  
 ## Week 4 (09/24/2017)
 #### Week Behind
   - Linkgs to new artifacts
