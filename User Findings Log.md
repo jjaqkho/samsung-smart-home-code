@@ -77,4 +77,6 @@ Families: Safety & Security
 
 - Got in contact with Janey Peterson, who is a PhD student in nursing that is interested in actigraphy and has existing data we can work off from
 
+- Dr. Lachs didn't focus on what he wants to see (insights or anything along that line) as a doctor, rather he wishes that the system would prevent hospitalization or sickness manifestation in the first place
+
 
