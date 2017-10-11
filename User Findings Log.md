@@ -69,7 +69,7 @@ Insurance: a more accurate package plan
 Bank: provides more accurate prediction for reverse mortgage: you pay the elders that are expected to die so you can own their property  
 Providers: saving on hospitalization costs  
 Nursing Homes: better facility and service  
-Families: Safe & Security  
+Families: Safety & Security  
 
 - We were told to refer to “Care at Hand” service where they used Dr. Lachs research paper determining highly predictive factors for looming sickness in adults.
 
