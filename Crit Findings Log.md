@@ -27,3 +27,22 @@
   1)	Reach for more nursing homes to confirm demand
   2)	Reach for doctors to confirm technical/clinical relevance of information
   3)	Reach for possible final clients to evaluate possible aversion to data collection
+
+### Summarized feedback from Product Studio Alumni
+
+##STYLE
+Too much text. You will lose more and more of your audience the more text you use. It feels visually monotone. It's better to just use captivating visuals and your voice. If you have to use text on a slide, keep it to one sentence - or key words - that you are really trying to drive home. 
+
+Remember - make the audience care about the problem, convince me of your epiphany/wedge and then convince me how every part of your solution solves the problem. 
+
+Your wedge about why you chose retirement homes was weak(it's a place where people are concerned about safety and security - a benefit of smart homes) You didn't convince me that it would solve the question you are answering. 
+
+Your demo was very confusing. You showed an interface and then a video and they didn't seem connected. You didn't fully convince me that your solution solved the problem -- not the question you were given, or the question you invented (How might we make nursing homes more safe and secure with smart home technology?) You just showed us what would happen but didn't talk about the benefits...aka why this is better than existing processes. 
+
+
+##YOUR IDEA
+Your solution doesn't answer the question. "How might we increase customer's understanding of how to use and take advantage of the smart home?"
+
+It doesn't help the general public understand smart homes better...as most people have never been to a retirement home. And the needs of people in retirement homes are different from those of normal people. Aka, as a young healthy woman, I'm not worried about detecting an impending illness or a fall. Your solution doesn't help the average person understand how smart homes will help them.
+
+The tricky part here is that you have to do this through a product. It could be a remote that connects all smart devices and helps them work together in helpful ways. For example, your baby's crib might send you an alert telling you that you're baby is awake and then your product would suggest that you make the smart lights blue and play soothing music (as it has been proven to help babies asleep the fastest). These suggestions would be based on psychology at first...but then would be informed by data collected from millions of smart homes. The more data you analyze, the better suggestions you will be able to give. And this could even be used to suggest new smart home devices that would make their lifestyle easier. This solution helps people 'increase their understanding' of how to use their smart home and 'take advantage' of it - according to their needs).
