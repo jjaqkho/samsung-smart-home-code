@@ -40,43 +40,52 @@
 ##### MAIN REMARKS:
  
 - Strongly supports the idea and its application within nursing homes (independent living)
-
 - “Physical aids (assistants) are better in predicting patient sickness compared to doctors”
-
 - Elders prefer no human assistants as it costs and its embarrassing
-
 - Know that the process of getting sick is different in elders compared to youngsters/adults
-
 - Most startups that deal with this field fail because they think they know what the elders need (e.g. ideas like Skype, 100 mile track etc.). They’ve even experimented with XBOX motion detection.
-
 - Basic activity and movements (young and adults often take for granted) are key factors that are indicative of looming sickness or death.
-- Activity includes: frequency of movements, time to get to point A to B (could be corridor), bed mobility*, morning setup**, eating duration, transferability.*** For example, change in walking speeds can be indicative of death
-
-  *preventing bed sores, also a tech that’s currently implemented in Hebrew home   
-  **greeting, brushing teeth, face wash etc.  
-  ***ability to move from the bed to the chair and vice versa, is it completed independently or does it require 1 or 2 people?
-
+- Activity includes: frequency of movements, time to get to point A to B (could be corridor), bed mobility, morning setup, eating duration, transferability. For example, change in walking speeds can be indicative of death
+  - preventing bed sores, also a tech that’s currently implemented in Hebrew home   
+  - greeting, brushing teeth, face wash etc.  
+  - ability to move from the bed to the chair and vice versa, is it completed independently or does it require 1 or 2 people?
 - Based off the preliminary TMP (timed manual performance) test that tests manual performance as a predictor of death in the elderly community. It was found our that the slower it took the elders to complete the test, the higher the death rate.
-
 - Common sickness predicted are: pneumonia and UTI
-
 - In terms of frequency threshold (when to alert), it depends on each individual elder, anything that deviates from the norm
-
 - With a huge quantity of elders, the system would benefit nursing homes as there is only that much attention given at a certain period
 It also would benefit insurance, banks, providers, nursing homes, families
-
   - Insurance: a more accurate package plan  
   - Bank: provides more accurate prediction for reverse mortgage: you pay the elders that are expected to die so you can own their property 
   - Providers: saving on hospitalization costs  
   - Nursing Homes: better facility and service  
   - Families: Safety & Security  
-
 - We were told to refer to “Care at Hand” service where they used Dr. Lachs research paper determining highly predictive factors for looming sickness in adults.
-
 - He doubts the capability of Samsung’s devices in terms of sensitivity and quality of data. Would prefer a more tailored activity monitoring system like Fitbit technologies.
-
 - Got in contact with Janey Peterson, who is a PhD student in nursing that is interested in actigraphy and has existing data we can work off from
-
 - Dr. Lachs didn't focus on what he wants to see (insights or anything along that line) as a doctor, rather he wishes that the system would prevent hospitalization or sickness manifestation in the first place
 
+### User Findings(10/20/17)
+
+##### DAY: Oct 20th
+##### PLACE: Roosevelt Island Senior Center
+##### TALKED TO: Yulisa, Sid, and an old lady
+##### MAIN REMARKS:
+ 
+Yulisa:
+- Yulisa is the case worker at Senior Center, she helps seniors in applying for government benefit programss, addressing landlord/ tenant disputes, and accessing medical care.
+- Yulisa understands our product demo and thinks seniors welcome new technologies.
+- Yulisa asks if there's emergency button for immediate help and actions. We can incorporate personal emergency alert system in our smart home technology kit in the future. 
+- Fall detection is an important measurement for the elderly.
+
+Sid:
+- Sid is the staff at Senior Center. He likes the idea of working with Nursing Homes beacuse he noticed seniors are concerned about their privacy. Seniors might feel like being watched even we don't use cameras.
+- From his experience interacting with seniors, Sid learned that seniors like to talk to each other. Sid suggests that we should have written scripts with clear instruction when explaining to seniors about how smart home devices work and make sure to tell seniors the exact same thing.
+- Seniors would like to know how they are doing once smart home devices are installed. We may think of building an end-user interface for the elderly in the future
+- There are many companies coming to Senior Center to give health and wellness workshops. Some seniors regualarly go to these sessions while some don't care. In general, women are more concerned with their health than men
+
+Old Lady:
+- She thought we were trying to sell her the product and stated she's not going to pay for smart home devices. She said that her sister got something similar (home monitoring system) from the healthcare provider for free. This justifies our analysis on price bareeria and B2B strategy.
+- She has a daily rountine. She turns on TV after waking up every monring for weather forecasts. While she's at home, she spends lots of waching TV on her sofa during the day. She also likes to go out and play board games with her girlfriends.
+- She likes playing games because she thinks it is important to exercise brainds for older people.
+- She doesn't think she need anything to monitor her health and well-being because she thinks she knows about herself well.
 
