@@ -86,6 +86,6 @@ Sid:
 Old Lady:
 - She thought we were trying to sell her the product and stated she's not going to pay for smart home devices. She said that her sister got something similar (home monitoring system) from the healthcare provider for free. This justifies our analysis on price barrier and B2B strategy.
 - She has a daily rountine. She turns on TV after waking up every morning for weather forecasts. While she's at home, she spends lots of time watching TV on her sofa during the day. She also likes to go out and play board games with her girlfriends.
-- She likes playing games because she thinks it is important to exercise brainds for older people.
+- She likes playing games because she thinks it is important to exercise cognitive function for older people.
 - She doesn't think she need anything to monitor her health and well-being because she thinks she knows about herself well.
 
