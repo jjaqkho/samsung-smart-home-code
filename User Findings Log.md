@@ -72,9 +72,9 @@ It also would benefit insurance, banks, providers, nursing homes, families
 ##### MAIN REMARKS:
  
 Yulisa:
-- Yulisa is the case worker at Senior Center, she helps seniors in applying for government benefit programss, addressing landlord/ tenant disputes, and accessing medical care.
+- Yulisa is the case worker at Senior Center, she helps seniors in applying for government benefit programs, addressing landlord/tenant disputes, and accessing medical care.
 - Yulisa understands our product demo and thinks seniors welcome new technologies.
-- Yulisa asks if there's emergency button for immediate help and actions. We can incorporate personal emergency alert system in our smart home technology kit in the future. 
+- Yulisa asks if there's an emergency button for immediate help and call to actions. We can incorporate personal emergency alert system in our smart home technology kit in the future.
 - Fall detection is an important measurement for the elderly.
 
 Sid:
@@ -84,8 +84,8 @@ Sid:
 - There are many companies coming to Senior Center to give health and wellness workshops. Some seniors regualarly go to these sessions while some don't care. In general, women are more concerned with their health than men
 
 Old Lady:
-- She thought we were trying to sell her the product and stated she's not going to pay for smart home devices. She said that her sister got something similar (home monitoring system) from the healthcare provider for free. This justifies our analysis on price bareeria and B2B strategy.
-- She has a daily rountine. She turns on TV after waking up every monring for weather forecasts. While she's at home, she spends lots of waching TV on her sofa during the day. She also likes to go out and play board games with her girlfriends.
+- She thought we were trying to sell her the product and stated she's not going to pay for smart home devices. She said that her sister got something similar (home monitoring system) from the healthcare provider for free. This justifies our analysis on price barrier and B2B strategy.
+- She has a daily rountine. She turns on TV after waking up every morning for weather forecasts. While she's at home, she spends lots of time watching TV on her sofa during the day. She also likes to go out and play board games with her girlfriends.
 - She likes playing games because she thinks it is important to exercise brainds for older people.
 - She doesn't think she need anything to monitor her health and well-being because she thinks she knows about herself well.
 
