@@ -89,3 +89,12 @@ Old Lady:
 - She likes playing games because she thinks it is important to exercise cognitive function for older people.
 - She doesn't think she need anything to monitor her health and well-being because she thinks she knows about herself well.
 
+##### DAY: Oct 21st
+##### TALKED TO: Jeff
+##### MAIN REMARKS:
+- Jeff is a software engineer with some background in machine learning.
+- He likes the mockup for the UI and thinks that it has the potential to be a practical monitoring and data visualization tool for nursing home.
+- An ability to pull and publish monitoring logs will definitely be helpful so the collected data can be further analyzed by the patient's doctor.
+- Nurses and doctors should have an easy way to set default as well as individual threshold values for alerts.
+- A seamless integration with the database of patients' medical records would be a plus.
+- Privacy of patients is of utmost importance.
