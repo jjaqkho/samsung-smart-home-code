@@ -109,7 +109,7 @@ Old Lady:
 - Arber is working for the NSF.  His background is in Business Development, Entrepreneurship and Startups.
 - He feels that our approach is unique when it comes to answering our HMW and that the nursing homes along with the assisted/independent living home market will benefit from smarthome devices.  
 -  He thought that adding a couple of different devices to show tech growth potential would be nice, and liked the data visualization on our UI.
--Was able to understand the UI and product specs and  felt that the prototype would be worthwhile to present the a more compact view of the product idea.
+- Was able to understand the UI and product specs and  felt that the prototype would be worthwhile in order to present a more compact view of the product idea.
 - He loved the fact that the customer response was positive (Hebrew Home), but he encouraged us to talk with more facilities.
 - He sees a growth potential both as a business and a product specifically in the next evolution of the product there is a way to connect with medical systems in order to push information they would require for patient’s medical diagnosis, as well as help in the research medical schools perform.
 - Feels that exposing businesses, other than manufacturing, to the world of IoT utilizing current market lineups and especially smarthome devices will help the market grow more rapidly and increase adoption: “It is inevitable that smarthomes and IoT will be integral part of life in the future, but due to the price point and not an array of clear benefits at the moment will propel the market to grow in different verticals before it reaches critical mass. It is the right track”
