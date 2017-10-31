@@ -46,3 +46,39 @@ Your solution doesn't answer the question. "How might we increase customer's und
 It doesn't help the general public understand smart homes better...as most people have never been to a retirement home. And the needs of people in retirement homes are different from those of normal people. Aka, as a young healthy woman, I'm not worried about detecting an impending illness or a fall. Your solution doesn't help the average person understand how smart homes will help them.
 
 The tricky part here is that you have to do this through a product. It could be a remote that connects all smart devices and helps them work together in helpful ways. For example, your baby's crib might send you an alert telling you that you're baby is awake and then your product would suggest that you make the smart lights blue and play soothing music (as it has been proven to help babies asleep the fastest). These suggestions would be based on psychology at first...but then would be informed by data collected from millions of smart homes. The more data you analyze, the better suggestions you will be able to give. And this could even be used to suggest new smart home devices that would make their lifestyle easier. This solution helps people 'increase their understanding' of how to use their smart home and 'take advantage' of it - according to their needs).
+
+### Summarized feedback from JG, Hanyu, Mew and Fani
+JG: 
+Quick scroll to a tab;
+List should constantly show;
+Red dot;
+Order to sort tabs;
+Cross reference tab data;
+Threshold line;
+Alert triangle logo;
+
+Hanyu:
+A little bit of everything;
+Talk to the nurse to see what they want to see;
+We assumed use-case;
+Summary a list she has done;
+Link to their personal info;
+After dismiss --> alert the doctor;
+Search move within patient list;
+H.I.I.P.A. concern;
+Dismiss for each tab rather than the patient;
+
+Fani:
+Yellow logo unsure;
+What's in alerts?
+Log out function;
+Compress the chart (one week);
+
+Mew:
+Irregularities alert (have numbers over it)?;
+Remove other unnecessary graphs;
+Other colors;
+What if other nurse attends the alert? --> Alert Log
+
+
+### Summarized feedback from Crit Group 2
