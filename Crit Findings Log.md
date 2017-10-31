@@ -57,7 +57,7 @@ Cross reference tab data;
 Threshold line;
 Alert triangle logo;
 
-Hanyu:
+#### Hanyu:
 A little bit of everything;
 Talk to the nurse to see what they want to see;
 We assumed use-case;
@@ -68,13 +68,13 @@ Search move within patient list;
 H.I.I.P.A. concern;
 Dismiss for each tab rather than the patient;
 
-Fani:
+#### Fani:
 Yellow logo unsure;
 What's in alerts?
 Log out function;
 Compress the chart (one week);
 
-Mew:
+#### Mew:
 Irregularities alert (have numbers over it)?;
 Remove other unnecessary graphs;
 Other colors;
