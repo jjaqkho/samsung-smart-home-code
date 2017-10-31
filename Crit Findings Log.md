@@ -47,7 +47,7 @@ It doesn't help the general public understand smart homes better...as most peopl
 
 The tricky part here is that you have to do this through a product. It could be a remote that connects all smart devices and helps them work together in helpful ways. For example, your baby's crib might send you an alert telling you that you're baby is awake and then your product would suggest that you make the smart lights blue and play soothing music (as it has been proven to help babies asleep the fastest). These suggestions would be based on psychology at first...but then would be informed by data collected from millions of smart homes. The more data you analyze, the better suggestions you will be able to give. And this could even be used to suggest new smart home devices that would make their lifestyle easier. This solution helps people 'increase their understanding' of how to use their smart home and 'take advantage' of it - according to their needs).
 
-### Summarized feedback from JG, Hanyu, Mew and Fani
+### Summarized UI feedback from JG, Hanyu, Hathaitorn and Fani
 #### JG: 
 Quick scroll to a tab;
 List should constantly show;
