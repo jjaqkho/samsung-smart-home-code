@@ -1,7 +1,70 @@
 # Weekly Progress Log
 
-### PC: How might we increase consumers’ understanding of how to use and take advantage of a Smart Home? 
+### Product Challenge: How might we increase consumers’ understanding of how to use and take advantage of a Smart Home? 
+### Product Narrative: Assist the elderly in early detection of health issues, by creating a system using Smart Home tech within Nursing Homes, that monitors their basic routine activity
 
+## Week 9 (10/29/2017)
+#### Week Behind
+  - Tech Talk outlined
+  - Dashboard UI prototype sent to Deborah’s sister, who is a doctor, to user test in terms of UI content and usability
+  - Completed the Total User Experience (TUX), which outlines the entire process of the product ranging from introduction to the end of the product’s life cycle
+  - Drafted 2 mock slides to demonstrate “Entrance” and “Engage” from the TUX
+  - Conducted research on backend development and decided to utilize FireBase for our backend implementation which would connect both to our client side and our smart home devices
+  - Had our presentation transcript (narrative) reviewed by Deborah Estrin, which was causing confusion to our audiences
+  
+#### Week Ahead
+  - Backend deliverables: have a database set up via FireBase
+  - Decide on a bootstrap template and start the coding process for the frontend
+  - Dashboard UI pin-up critique
+  - Have the product’s UI flow flushed out
+  - Prepare for Tech Talk scrum and guest critique sessions on Tuesday night
+  - Review user test results from Deborah’s sister
+  - Discuss our next steps in terms of combining frontend and backend
+  - Conference call with Bill for Sprint 2 feedback
+
+#### Risks
+  - 
+  
+## Week 8 (10/22/2017)
+#### Week Behind
+  - Met with Dr. Lachs and Dr. Peterson from Weill Cornell to learn about their research on elderly mobility and mortality 
+  - Decided on using motion sensors and multi-purpose sensors to start with 2 types of measurements – one for bathroom visits and one for a pill box
+  - Received feedback regarding product design and presentation style from Prof. Deborah Estrin, a Product Studio alumni and Greg Pass
+  - Presented product demo and validated product idea by four non-student individuals, one of them being Roosevelt Island Senior Center (an elderly resident, a case worker and a staff)
+  
+#### Week Ahead
+  - Gather together and present the our respective deliverables and iterate
+      - Jonathan: UI development
+      - Fani and Hathaitorn: Samsung’s backend development
+  - Plan our next development steps in both frontend and backend
+  - Execute more research into smart home technology application in the aging group
+  - Set up motion sensors and multi-purpose sensors in one of our apartments to start collecting data 
+  - Schedule a meeting/call with you to update you further on our Sprint 2 progress
+
+#### Risks
+  - Confusion in the process of leading the audience from our HMW question to the idea of integrating Smart Home with nursing homes
+  - Getting real time data in nursing homes to test our product
+
+  
+## Week 7 (10/15/2017)
+#### Week Behind
+  - During Sprint 2 we designed an initial product UI and experimented with Amazon Alexa and Samsung smart things APIs
+  - Met with Dr. Lachs, at Weill Cornell and received crucial feedback on the main health metrics of elderly individuals
+  - Met with Kiyan before our Spring, discussed the progress of our Narrative and our Spring plans
+  - Set the foundation of our product building docs
+  
+#### Week Ahead
+  - Second meeting with Dr. Lachs and Dr. Peterson at Weill Cornell to gather more insights regarding health data collection of elderly patients. (Potentially obtain available Fitbit movement data)
+  - Get intros to more Nursing homes in the NYC city area and schedule visits to understand how they function and their routines
+  - Test product UI
+  - Dive deeper into setting up smart devices/API and start collecting real data
+  - Execute more research into market size/projection/prices for independent living in US
+  - Schedule a meeting/call with you to update you further on our Sprint 2 progress
+
+#### Risks
+  - Our schedules might conflict.
+  - Not being able to get as many intros as we would like to nursing homes, resulting on us exploring a cold email approach.
+  
 ## Week 6 (10/08/2017)
 #### Week Behind
   - Had our first crit session, we got a positive response on our approach and  product narative.
