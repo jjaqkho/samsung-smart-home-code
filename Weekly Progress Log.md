@@ -3,7 +3,7 @@
 ### Product Challenge: How might we increase consumers’ understanding of how to use and take advantage of a Smart Home? 
 ### Product Narrative: Assist the elderly in early detection of health issues, by creating a system using Smart Home tech within Nursing Homes, that monitors their basic routine activity
 
-## Week 9 (10/29/2017)
+## Week 10 (10/29/2017)
 #### Update what you need to be Narrative Complete based on Sprint 2 learnings in your weekly progress log?
 Develop the backend; code the frontend; simulate date. Then, merge backend with the frontend to demonstrate the functionability of the entire system, even if its just 2 sensors – we are still able to show the use case of it (UTI).
 
