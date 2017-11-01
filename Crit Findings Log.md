@@ -82,3 +82,20 @@ What if other nurse attends the alert? --> Alert Log
 
 
 ### Summarized feedback from Crit Group 2
+• Adding connection value/fun aspect to the elderly and their family? The calling-to-see-what-you're-cooking example (btw we can do this with a smart plug if we really want to, but not sure if it's worth it); 911 option could be possible; Having just the dashboard for now is okay, don't need to predict for them; They understand our connection in terms of linking the HMW to our Product Narrative
+
+• Could potentially add more personal monitoring devices like iBeat
+
+• A plethora of devices out there that provide helpful data in measuring activity and health status. The set up will be more beneficial in an independent/assisted/actual home
+
+• Get beneficiaries such as insurnace companies to jump in on sponsoring our products; If we can prove to the insurance that knowing bed movement could be a significant thing, then insurance would be willing to pay
+
+• Showcasing data is fine for prototyping, product can evolve afterwards
+
+• Potentially get families in contact with what their old folks are doing within the Nursing Home
+
+
+
+
+
+
