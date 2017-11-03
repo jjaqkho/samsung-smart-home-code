@@ -96,15 +96,23 @@ What if other nurse attends the alert? --> Alert Log
 
 ### Summarized feedback from Greg Pass
 
+• Discussed about HMW --> Product Narrative
+
 • Positive feedback on our narrative, our transition from our HMW to our Product Narrative
 
 • One sentence for each category of the diagram ("Make me care...")
 
-
+• Great that we're not pivoting
 
 ### Summarized feedback from Bill Lee (Sprint 2)
 
+• UI has to be clear, which is what we have
 
+• Whoever in duty has to easily be picked up by the UI
+
+• In addition to standup and walk around, there are sensors in the marketplace that can have a more precise and clinical measurements. don’t limit ourselves to only their behavior and movements (e.g. toilet bowls that do urinalysis
+
+• Overall, great start, very clean, very simple
 
 
 
