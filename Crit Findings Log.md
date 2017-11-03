@@ -94,6 +94,15 @@ What if other nurse attends the alert? --> Alert Log
 
 • Potentially get families in contact with what their old folks are doing within the Nursing Home
 
+### Summarized feedback from Greg Pass
+
+• Positive feedback on our narrative, our transition from our HMW to our Product Narrative
+
+• One sentence for each category of the diagram ("Make me care...")
+
+
+
+### Summarized feedback from Bill Lee (Sprint 2)
 
 
 
