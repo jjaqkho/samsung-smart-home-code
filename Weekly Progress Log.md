@@ -3,9 +3,29 @@
 ### Product Challenge: How might we increase consumers’ understanding of how to use and take advantage of a Smart Home? 
 ### Product Narrative: Assist the elderly in early detection of health issues, by creating a system using Smart Home tech within Nursing Homes, that monitors their basic routine activity
 
-## Week 10 (10/29/2017)
-#### Update what you need to be Narrative Complete based on Sprint 2 learnings in your weekly progress log?
-Develop the backend; code the frontend; simulate date. Then, merge backend with the frontend to demonstrate the functionability of the entire system, even if its just 2 sensors – we are still able to show the use case of it (UTI).
+## Week 10 (11/05/2017)
+### Week Behind
+  - Dashboard UI pin-up critique: discussed features needed to be add/remove and had the product’s UI flow flushed out
+  - Iterated over architecture diagram and discussed about software architecture. We decided to use Google Firebase as backend solution and started building frontend dashboard using a bootstrap template
+  - Feedback gathered from Crit 2 on Tuesday night. Key takeaways include:
+  - Showcasing data is fine for prototyping, product can evolve afterwards
+  - Integrating other devices into the system for more measurements
+  - Had our advisor meeting with Greg Pass and received advice on how to improve product narrative
+  - Our conference call with Company Advisor Bill, for Sprint 2 feedback
+  - Sought Khoa for room arrangement and event dates for Bill
+
+### Week Ahead
+  - Explore possible solutions in inserting responsive chart in frontend dashboard
+  - Improve on UI based on internal pin-up critique
+  - Discuss our next steps in terms of combining frontend and backend
+  - Deliverables:
+      - Set up a database via Google FireBase
+      - Develop more pages for front-end dashboard
+  - Refresh Tech Talk before Scrum
+  - Review user test results from Deborah’s sister (still pending)
+
+### Risk
+  - Might not be able to fix up design since backend and frontend development are still at the premature stage
 
 
 ## Week 9 (10/29/2017)
