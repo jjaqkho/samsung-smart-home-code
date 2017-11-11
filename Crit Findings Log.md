@@ -114,5 +114,13 @@ What if other nurse attends the alert? --> Alert Log
 
 • Overall, great start, very clean, very simple
 
+### Summarized feedback from Tech Talk
+
+• Product idea (what we're actually making and our idea) wasn't clear in the beginning
+
+• The images on the powerpoint, like all our previous Sprint presentations, some parts of the image were invisible
+
+• Hierarchy of diagram isn't clear; probably could be substituted by some images/icons
+
 
 
