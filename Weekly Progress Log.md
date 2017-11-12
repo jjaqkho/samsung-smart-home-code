@@ -3,7 +3,7 @@
 ### Product Challenge: How might we increase consumers’ understanding of how to use and take advantage of a Smart Home? 
 ### Product Narrative: Assist the elderly in early detection of health issues, by creating a system using Smart Home tech within Nursing Homes, that monitors their basic routine activity
 
-## Week 10 (11/12/2017)
+## Week 11 (11/12/2017)
 ### Week Behind
  - Explored possible solutions in inserting responsive chart in frontend dashboard
  - Improved on UI based on internal pin-up critique, making it more nurse-oriented
