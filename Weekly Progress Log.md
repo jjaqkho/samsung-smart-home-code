@@ -3,6 +3,25 @@
 ### Product Challenge: How might we increase consumers’ understanding of how to use and take advantage of a Smart Home? 
 ### Product Narrative: Assist the elderly in early detection of health issues, by creating a system using Smart Home tech within Nursing Homes, that monitors their basic routine activity
 
+## Week 10 (11/12/2017)
+### Week Behind
+ - Explored possible solutions in inserting responsive chart in frontend dashboard
+ - Improved on UI based on internal pin-up critique, making it more nurse-oriented
+ - Discussed our next steps in terms of combining frontend and backend
+ - Presented in the Tech Talk, where we showcased the backend flow of our system and what tools are we using to make it work
+ - Updated the Crit Findings Logs with feedback gotten during the Tech Talk
+ - Clarified our product narrative as such: “Assist the elderly in early detection of health issues, by creating a system using Smart Home tech within Nursing Homes, that monitors their basic routine activity”
+
+### Week Ahead
+ - Work together to combine frontend and backend, so that the UI responds to the devices
+ - Prepare for Sprint 3
+ - Discuss UI/UX design on what features to prioritize
+ - Establish frontend-backend connection 
+ - Update you on the dates that would be best for you come and give us and our product a visit
+
+### Risk
+ - Might not be able to fix up design since backend and frontend development are still at the premature stage
+
 ## Week 10 (11/05/2017)
 ### Week Behind
   - Dashboard UI pin-up critique: discussed features needed to be add/remove and had the product’s UI flow flushed out
