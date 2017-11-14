@@ -114,3 +114,14 @@ Old Lady:
 - He sees a growth potential both as a business and a product specifically in the next evolution of the product there is a way to connect with medical systems in order to push information they would require for patient’s medical diagnosis, as well as help in the research medical schools perform.
 - Feels that exposing businesses, other than manufacturing, to the world of IoT utilizing current market lineups and especially smarthome devices will help the market grow more rapidly and increase adoption: “It is inevitable that smarthomes and IoT will be integral part of life in the future, but due to the price point and not an array of clear benefits at the moment will propel the market to grow in different verticals before it reaches critical mass. It is the right track”
 
+### User Findings (11/14/17)
+
+##### DAY: Nov 11th
+##### TALKED TO: Maria Bravo
+##### MAIN REMARKS:
+
+- She works in recreational in Coler Nursing Home
+- 750 beds in the facility
+- Most nurses deal with checklist-type forms
+- These primary use of these forms are to assess performances of recreational activities (although we have yet to actually see the forms for ourselves)
+- Nursing Administration number: 2128486150/6160
