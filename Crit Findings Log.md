@@ -123,4 +123,14 @@ What if other nurse attends the alert? --> Alert Log
 • Hierarchy of diagram isn't clear; probably could be substituted by some images/icons
 
 
+### Summarized feedback from Crit Group 3
+
+• Get as soon as possible towards clarifying smart tech and elderly (no interaction); what kind of smart tech
+• Get the concept over!! : unified dashboard that accesses data from Smart devices; narrative more important; actionable insights
+• With the absence of this kind of tech, what happens?
+• Patient care; three parties
+• Don't add anything that isn't align with the story
+• Frontend needs more development: call-to-actions
+• "Alexa Silver"
+• Horrible HMW, can edit away the word "Home"
 
