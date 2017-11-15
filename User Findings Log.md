@@ -116,7 +116,7 @@ Old Lady:
 
 ### User Findings (11/14/17)
 
-##### DAY: Nov 11th
+##### DAY: Nov 14th
 ##### TALKED TO: Maria Bravo
 ##### MAIN REMARKS:
 
@@ -125,3 +125,20 @@ Old Lady:
 - Most nurses deal with checklist-type forms
 - These primary use of these forms are to assess performances of recreational activities (although we have yet to actually see the forms for ourselves)
 - Nursing Administration number: 2128486150/6160
+
+### User Findings (11/15/17)
+
+##### DAY: Nov 15th
+##### TALKED TO: Sakkari Devray, Assitant Director of Nursing Department
+##### MAIN REMARKS:
+
+- The Long time nursing care has three types of units: Independent Units, Heavy Dependent Units and Rehab Units.
+  - Independent untis have 3 units intotal, 27 patients/unit.
+-	Each nurse is assigned to specific unit. For each unit, there are three nurse: 1 in charge of meditation, 1 in charge of treatment, 1 unit manager.
+-	Currently, nurses don’t measure a lot of things. In most cases, nurse observe and watch how well patients have been. Instead of measuring exact values, nurses assess independence and record how many times the elderly needs assistance in a day. Other things they oversee/measure are:
+  - Sleeping: hours of sleep, sleep-wake patterns
+  - Transferring: # of steps during da time, # of time they need assistance, how well is the balance
+  - Eating: how much they finish in one single meal (measured in percentage)
+-	They have a system that nurses type in doctor notes and daily report by the end of the day. Documentation of each patient is in paper form. 
+
+
