@@ -32,28 +32,27 @@ scratch. This page gets rid of all links and provides the needed markup only.
     <!-- Google Font -->
     <link rel="stylesheet"
           href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,300italic,400italic,600italic">
+    <style>
+        .alert-toilet{
+            outline-width: 4px;
+            outline-color: red;
+            outline-style: solid;
+            outline-offset: 4px;
+
+        }
+        .tabcontent {
+            display: none;
+            padding: 6px 12px;
+            border: 1px solid #ccc;
+            border-top: none;
+        }
+        #Daily {
+            display: block;
+        }
+    </style>
 
 </head>
-<!--
-BODY TAG OPTIONS:
-=================
-Apply one or more of the following classes to get the
-desired effect
-|---------------------------------------------------------|
-| SKINS         | skin-blue                               |
-|               | skin-black                              |
-|               | skin-purple                             |
-|               | skin-yellow                             |
-|               | skin-red                                |
-|               | skin-green                              |
-|---------------------------------------------------------|
-|LAYOUT OPTIONS | fixed                                   |
-|               | layout-boxed                            |
-|               | layout-top-nav                          |
-|               | sidebar-collapse                        |
-|               | sidebar-mini                            |
-|---------------------------------------------------------|
--->
+
 
 
 <body class="hold-transition skin-blue sidebar-mini">
@@ -63,7 +62,7 @@ desired effect
     <header class="main-header">
 
         <!-- Logo -->
-        <a href="starter.html.html" class="logo">
+        <a href="starter.html" class="logo">
             <!-- mini logo for sidebar mini 50x50 pixels -->
             <span class="logo-mini"><b>G</b>ri</span>
             <!-- logo for regular state and mobile devices -->
@@ -296,29 +295,26 @@ desired effect
                             <img class="profile-user-img img-circle center-block" src="default-avatar.png" alt="User profile picture">
 
                             <h3 class="profile-username text-center">Jose Smith</h3>
-
-                            <p class="text-muted text-center">Software Engineer</p>
+                            <p></p>
 
                             <ul class="list-group list-group-unbordered">
                                 <li class="list-group-item">
-                                    <b>Date</b> <a class="pull-right">1,322</a>
+                                    <b>Date of Birth</b> <a class="pull-right">1,322</a>
                                 </li>
                                 <li class="list-group-item">
-                                    <b>Insurance</b> <a class="pull-right">543</a>
+                                    <b>Age</b> <a class="pull-right">543</a>
                                 </li>
                                 <li class="list-group-item">
-                                    <b>Contact Info</b> <a class="pull-right">13,287</a>
+                                    <b>Contact</b> <a class="pull-right">13,287</a>
                                 </li>
                                 <li class="list-group-item">
                                     <b>Medical History</b> <a class="pull-right">13,287</a>
 
                                 </li>
                                 <li class="list-group-item">
-                                    <b>Medical History</b> <a class="pull-right">13,287</a>
+                                    <b>Remark</b> <a class="pull-right">13,287</a>
                                 </li>
-                                <li class="list-group-item">
-                                    <b>Medical History</b> <a class="pull-right">13,287</a>
-                                </li>
+
                             </ul>
 
                         </div>
@@ -362,7 +358,7 @@ desired effect
                                     <span class="info-box-icon"><i class="ion ion-stats-bars"></i></span>
 
                                     <div class="info-box-content">
-                                        <span class="info-box-number">Average 8/day</span>
+                                        <span class="info-box-number">Average 6.5h/day</span>
 
                                         <div class="progress">
                                             <div class="progress-bar" style="width: 65%"></div>
@@ -474,32 +470,35 @@ desired effect
                                 <canvas id="monthly-chart" width="100" height="25"></canvas>
                             </div>
                         </div>
-
-
                         <!-- /.box -->
                     </div>
                 </div>
-
             </div>
 
             <div class="row">
                 <div class="col-md-12">
-                <div class="box ">
-                    <div class="box-header with-border">
-                        <h3 class="box-title">Sleeping</h3>
-
-                        <div class="box-tools pull-right">
-                            <button type="button" class="btn btn-box-tool" data-widget="collapse"><i class="fa fa-minus"></i>
-                            </button>
-                            <button type="button" class="btn btn-box-tool" data-widget="remove"><i class="fa fa-times"></i></button>
+                    <div class="box ">
+                        <div class="box-header with-border">
+                            <h3 class="box-title">Sleeping</h3>
+                            <div class="box-tools pull-right">
+                                <button type="button" class="btn btn-box-tool" data-widget="collapse"><i class="fa fa-minus"></i>
+                                </button>
+                                <button type="button" class="btn btn-box-tool" data-widget="remove"><i class="fa fa-times"></i></button>
+                            </div>
                         </div>
-                    </div>
-                    <div class="box-body">
-                        <div class="chart">
-                            <canvas id="sleeping" width="100" height="25"></canvas>
+                        <div class="box-body">
+                            <div class="col-md-4">
+                                <div class="chart">
+                                    <canvas id="sleeping1" width="50" height="35"></canvas>
+                                </div>
+                            </div>
+                            <div class="col-md-8">
+                                <div class="chart">
+                                    <canvas id="sleeping2" width="100" height="35"></canvas>
+                                </div>
+                            </div>
+                            <!-- /.box-body -->
                         </div>
-                        <!-- /.box-body -->
-                    </div>
                     <!-- /.box -->
                     </div>
                 </div>
@@ -534,7 +533,6 @@ desired effect
                                 </div>
                             </div>
                         </div>
-
                         <!-- /.box -->
                     </div>
                 </div>
@@ -669,12 +667,10 @@ desired effect
 <script src="dist/js/adminlte.min.js"></script>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.1/Chart.js"></script>
-<!-- FastClick -->
-<script src="../../bower_components/fastclick/lib/fastclick.js"></script>
+
 
 
 <script>
-
 
     new Chart(document.getElementById("general2"), {
         type: 'bar',
@@ -756,29 +752,92 @@ desired effect
             }
         }
     });
-    new Chart(document.getElementById("sleeping"), {
-        type: 'line',
-        data: {
-            labels: ['12:00 AM', '4:00 AM', '8:00 AM', '12:00 PM', '4:00 PM', '8:00 PM', '12:00 AM'],
-            datasets: [{
-                label: "Threshold",
-                type:'line',
-                backgroundColor: "rgba(0,0,0,0.2)",
-                data: [2, 2, 2, 2, 2, 2, 2]
 
-            }, {
-                label: "Current",
-                type:'bar',
-                backgroundColor: "#3e95cd",
-                data: [0, 1, 1, 4, 2, 1, 6],
-                fill:false
-            }
-            ]
+    new Chart(document.getElementById("sleeping1"), {
+        type: 'horizontalBar',
+        data: {
+            labels: ["Awake", "REM", "Light", "Deep"],
+            datasets: [{
+                backgroundColor: [
+                    "#F8BBD0",
+                    "#7FB3DB",
+                    "#3e95cd",
+                    "#1531AE"
+                ],
+                data: [11, 20, 50, 19]
+            }]
         },
         options: {
+            scales: {
+                yAxes:[{
+                    barThickness: 20,
+                    ticks: {
+                        beginAtZero:true,
+                        mirror: true
+                    },
+                }],
+            },
+            legend: {
+                display: false
+            }
+        }
+    });
+
+    new Chart(document.getElementById('sleeping2'), {
+        type:"bar",
+        data: {
+            labels: ["9:00 PM","9:30 PM", "10:00 PM","10:30 PM","11:00 PM","11:30 PM",'12:00 AM',"12:30 AM", "1:00 AM","1:30 AM", "2:00 AM",
+                "2:30 AM", "3:00 AM","3:30 AM", '4:00 AM',"4:30 AM","5:00 AM","5:30AM","6:00 AM", "6:30 AM",
+                "7:00 AM","7:40 AM",'8:00 AM',"8:30 AM","9:00 AM","9:30 AM","10:00 AM"],
+            datasets: [{
+                label: "active",
+                backgroundColor: "#F8BBD0",
+                data:[2,2,2,2,0,0,0,0,2,2,0,0,0,2,0,0, 2, 0,0, 0,0, 0,2,0,0,0,2,0,2],
+                xAxisID: "bar-x-axis1"
+
+            }, {
+                label: "asleep",
+                backgroundColor: "#3e95cd",
+                data: [1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1],
+                xAxisID: "bar-x-axis2"
+            }]
+        },
+        options: {
+            scales: {
+                yAxes: [{
+                    ticks:{
+                        display:false,
+                        beginAtZero:true
+                    },
+                    gridLines: {
+                        display:false
+                    }
+                }],
+                xAxes: [{
+                    display:false,
+                    id:'bar-x-axis1',
+                    barThickness: 5,
+                    categoryPercentage: 1.0,
+                    barPercentage: 1.0,
+                    gridLines: {
+                        display:false
+                    }
+
+                },{
+                    id:"bar-x-axis2",
+                    type:"category",
+                    categoryPercentage: 1.0,
+                    barPercentage: 1.0,
+                    barThickness:50,
+                    gridLines: {
+                        display:false
+                    }
+                }]
+            }
 
         }
     });
+
     new Chart(document.getElementById("mov1"), {
         type: 'doughnut',
         data: {
@@ -795,13 +854,16 @@ desired effect
             }]
         },
         options: {
+            legend: {
+                display: false
+            },
             rotation: 1 * Math.PI,
             circumference: 1 * Math.PI
         }
     });
 
-
 </script>
+
 
 <script>
     function openBath(evt, monName) {
@@ -819,25 +881,7 @@ desired effect
     }
 </script>
 
-<style>
-    .alert-toilet {
-        outline-width: 4px;
-        outline-color: red;
-        outline-style: solid;
-        outline-offset: 4px;
-    }
 
-    .tabcontent {
-        display: none;
-        padding: 6px 12px;
-        border: 1px solid #ccc;
-        border-top: none;
-    }
-
-    #Daily {
-        display: block;
-    }
-</style>
 
 <!-- Sparkline -->
 <script src="bower_components/jquery-sparkline/dist/jquery.sparkline.min.js"></script>
